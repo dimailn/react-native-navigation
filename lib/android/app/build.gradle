@@ -48,9 +48,6 @@ android {
     }
     flavorDimensions "RNN.reactNativeVersion"
     productFlavors {
-        reactNative51 {
-            dimension "RNN.reactNativeVersion"
-        }
         reactNative55 {
             dimension "RNN.reactNativeVersion"
         }
